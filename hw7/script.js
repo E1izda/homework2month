@@ -47,7 +47,7 @@ for (var i = 0; i < orders.length; i++) {
     }
   }
 
-  console.log("Заказ #" + order.id + " сумма: " + orderSum);
+  console.log("Заказ" + order.id + " сумма: " + orderSum);
 
   totalIncome += orderSum;
 
